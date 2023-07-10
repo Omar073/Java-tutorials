@@ -1,0 +1,3 @@
+interface Predator{
+    void hunt();
+}
